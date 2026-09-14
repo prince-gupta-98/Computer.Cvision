@@ -1,2 +1,5 @@
-# Computer.Cvision
-this is a computer vision based assignment and it is a solo project 
+# computer vision Unit II Programing Assignment
+Name:Prince Gupta
+Enrollment Number:2402309089
+Class/Section:BCA 5B
+Programs compeleted: 15/15
